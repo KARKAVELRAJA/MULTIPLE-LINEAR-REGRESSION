@@ -23,5 +23,3 @@
 - Model Testing
 - Model Validation
 
-
-
